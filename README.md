@@ -35,6 +35,7 @@ The (h) stand for *hard* because it requires more code lines to be installed.
 - texstudio
 - r-base
 - docker (*h*)
+- notepadqq
 
 ## Science & Engineering
 - freecad
