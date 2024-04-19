@@ -1,5 +1,5 @@
 # linux_set_up
-This repository contains the files I use to configure another linux computer.
+This [repository](https://github.com/F-BSC/linux_set_up) contains the files I use to configure another linux computer.
 
 Every time I set up another computer on Ubuntu for instance, I run the script_instalation_software.sh file to install some softwares so I and you don't hve to do it by hand.
 
