@@ -10,8 +10,8 @@ Some other softwares require manual instalation for now.
 
 I work little by little on my linux journey to achieve to write the perfect set-up script which installs all my favorite softwares with the less interaction from me.
 
-If you use this script or a similar one, do not forget to *right-clik* on it, go to *Properties* then to *Permissions* and check *Allow executing file as program*.
-Then if you want to execute it, *right-clik* again on it and select *Run as program*.
+If you use this script or a similar one, do not forget to *right-click* on it, go to *Properties* then to *Permissions* and check *Allow executing file as program*.
+Then if you want to execute it, *right-click* again on it and select *Run as program*.
 
 # Script installation
 The (h) stand for *hard* because it requires more code lines to be installed.
