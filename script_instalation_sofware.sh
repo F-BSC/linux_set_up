@@ -24,11 +24,14 @@ sudo python3 -m pip install --upgrade pip
 sudo apt install texstudio
 # R
 sudo apt-get install r-base
-# Rstudio by hand
+sudo apt install notepadqq
+
 
 ### Science & Engineering
 sudo apt-get install freecad
 sudo apt-get install paraview
+<<<<<<< HEAD
+sudo apt install scilab
 
 ### Game
 sudo snap install dolphin-emulator
