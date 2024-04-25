@@ -38,6 +38,8 @@ sudo snap install dolphin-emulator
 sudo snap install steam
 sudo snap install mgba
 
+### Utils
+sudo apt install net-tools
 
 ### Other and "hard" 
 # Docker
