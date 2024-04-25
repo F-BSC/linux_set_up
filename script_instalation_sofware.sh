@@ -40,6 +40,7 @@ sudo snap install mgba
 
 ### Utils
 sudo apt install net-tools
+sudo apt -y install libcurl4-openssl-dev
 
 ### Other and "hard" 
 # Docker
